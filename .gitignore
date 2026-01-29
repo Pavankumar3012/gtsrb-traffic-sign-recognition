@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data folders (large)
+gtsrb_data/
+data/
+*.pt
+*.pth
